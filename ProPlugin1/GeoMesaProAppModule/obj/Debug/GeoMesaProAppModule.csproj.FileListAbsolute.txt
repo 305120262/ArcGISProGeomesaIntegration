@@ -1,0 +1,10 @@
+C:\Users\Sean\source\repos\ProPlugin1\GeoMesaProAppModule\obj\Debug\GeoMesaProAppModule.csprojAssemblyReference.cache
+C:\Users\Sean\source\repos\ProPlugin1\GeoMesaProAppModule\obj\Debug\ProWindow1.baml
+C:\Users\Sean\source\repos\ProPlugin1\GeoMesaProAppModule\obj\Debug\ProWindow1.g.cs
+C:\Users\Sean\source\repos\ProPlugin1\GeoMesaProAppModule\obj\Debug\GeoMesaProAppModule_MarkupCompile.cache
+C:\Users\Sean\source\repos\ProPlugin1\GeoMesaProAppModule\obj\Debug\GeoMesaProAppModule.g.resources
+C:\Users\Sean\source\repos\ProPlugin1\GeoMesaProAppModule\obj\Debug\GeoMesaProAppModule.csproj.CoreCompileInputs.cache
+C:\Users\Sean\source\repos\ProPlugin1\GeoMesaProAppModule\bin\Debug\GeoMesaProAppModule.dll
+C:\Users\Sean\source\repos\ProPlugin1\GeoMesaProAppModule\bin\Debug\GeoMesaProAppModule.pdb
+C:\Users\Sean\source\repos\ProPlugin1\GeoMesaProAppModule\obj\Debug\GeoMesaProAppModule.dll
+C:\Users\Sean\source\repos\ProPlugin1\GeoMesaProAppModule\obj\Debug\GeoMesaProAppModule.pdb

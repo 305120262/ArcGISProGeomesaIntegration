@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ESRI.Configuration xmlns="http://schemas.esri.com/DADF/Registry" 
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://schemas.esri.com/DADF/Registry file:///C:/Program%20Files/ArcGIS/Pro/bin/ArcGIS.Desktop.Framework.xsd">
+  <Name>ProPlugin1</Name>
+  <AddInID>{33d5c987-dbf4-436c-a828-d4a96ab48ee9}</AddInID>
+  <Description>ProPlugin1 description</Description>
+  <Version>1.0</Version>
+  <Author>Sean</Author>
+  <Company>Acme</Company>
+  <Date>2020/1/2 1:23:56, 2020</Date>
+  <Targets>
+    <Target name="ArcGISPro" version="2.4" />
+  </Targets>
+  <!-- CLR should be set to the 4.6.1 set in the .csproj -->
+  <AddIn language="CLR4.6.1" library="ProPlugin1.dll" namespace="ProPlugin1">
+    <ArcGISPro>
+      <PluginDatasources>
+        <PluginDatasource id="HbasePlugin1_Datasource" class="ProPluginDatasourceTemplate"/>
+      </PluginDatasources>
+    </ArcGISPro>
+  </AddIn>
+</ESRI.Configuration>

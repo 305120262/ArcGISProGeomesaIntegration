@@ -1,0 +1,10 @@
+C:\Users\Sean\source\repos\ProPlugin1\ProPlugin1\bin\Debug\ProPlugin1.dll
+C:\Users\Sean\source\repos\ProPlugin1\ProPlugin1\bin\Debug\ProPlugin1.pdb
+C:\Users\Sean\source\repos\ProPlugin1\ProPlugin1\obj\Debug\ProPlugin1.csprojAssemblyReference.cache
+C:\Users\Sean\source\repos\ProPlugin1\ProPlugin1\obj\Debug\ProPlugin1.csproj.CoreCompileInputs.cache
+C:\Users\Sean\source\repos\ProPlugin1\ProPlugin1\obj\Debug\ProPlugin1.dll
+C:\Users\Sean\source\repos\ProPlugin1\ProPlugin1\obj\Debug\ProPlugin1.pdb
+C:\Users\Sean\source\repos\ProPlugin1\ProPlugin1\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\Sean\source\repos\ProPlugin1\ProPlugin1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sean\source\repos\ProPlugin1\ProPlugin1\bin\Debug\RabbitMQ.Client.dll
+C:\Users\Sean\source\repos\ProPlugin1\ProPlugin1\obj\Debug\ProPlugin1.csproj.CopyComplete
